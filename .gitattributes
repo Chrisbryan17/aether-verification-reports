@@ -1,0 +1,8 @@
+# Byte-accurate verification files must remain LF in Windows and Linux checkouts.
+*.md text eol=lf
+*.cff text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.log text eol=lf
+*.txt text eol=lf
+SHA256SUMS text eol=lf
