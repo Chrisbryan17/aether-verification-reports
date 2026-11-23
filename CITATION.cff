@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "Cite Aether's computational reproduction report; credit the underlying proof to Levent Alpöge and Claude."
 title: "Aether Verification Report 001: Independent Computational Reproduction of the Alpöge–Claude Riemann Hypothesis Formalization"
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.24463102
 date-released: 2026-11-23
 type: dataset
 authors:

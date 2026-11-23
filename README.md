@@ -18,7 +18,7 @@ To confirm all published evidence bytes, run:
 python scripts/verify_release.py
 ```
 
-The report is citation-ready through [CITATION.cff](CITATION.cff); a Zenodo DOI will be added only if Zenodo successfully issues one.
+**Permanent Zenodo citation:** [Report 001, v1.0.1 (10.5281/zenodo.24463102)](https://doi.org/10.5281/zenodo.24463102). **All versions:** [10.5281/zenodo.24463101](https://doi.org/10.5281/zenodo.24463101). Zenodo archived the unchanged, source-free report after GitHub integration was enabled. Citation metadata is in [CITATION.cff](CITATION.cff).
 
 ### External references
 
