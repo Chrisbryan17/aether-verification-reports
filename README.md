@@ -2,6 +2,12 @@
 
 Source-pinned computational verification records produced using the Aether research infrastructure.
 
+### What is Aether?
+
+**Aether** is an independently developed software project for coordinating research tasks, collaborative software agents, reproducible computation, and evidence-based technical reviews. It is a research and automation platform, not a mathematical institute or a theorem prover.
+
+For Report 001, a full Lean compilation and axiom audit were reproduced on an Aether-operated VPS. Separately, Aether's native collaborative agent workflow reviewed the resulting technical report, and deterministic checks verified the publication package. The original mathematical proof is not Aether's work, the report's automated review is not independent mathematical peer review, and Aether did not run a separately implemented proof kernel.
+
 ## Report 001: Lean Riemann Hypothesis reproduction, November 2026
 
 **[Read Report 001](reports/001-riemann-hypothesis/REPORT.md)** | **[Original machine certificate](reports/001-riemann-hypothesis/independent-rh-certification.json)** | **[Evidence hashes](reports/001-riemann-hypothesis/source-reproducibility.json)**
