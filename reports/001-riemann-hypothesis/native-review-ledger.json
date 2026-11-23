@@ -1,0 +1,35 @@
+{
+  "distinct_agents": 3,
+  "doi_assigned": false,
+  "draft_creation_utc": "2026-11-23T00:58:32.533633+00:00",
+  "independent_review_receipts": {
+    "integrator": {
+      "model_invocations": 1,
+      "sha256": "591d467364aeddef1a7d8858ba00f81de43e1bd58201e33f2d5e11024b92ba5f",
+      "status": "INDEPENDENT_REVIEW_RECEIPT_ACCEPTED"
+    },
+    "lead": {
+      "model_invocations": 2,
+      "sha256": "485a22fa90476fb7e64dbabd4716e3a462865cc70976485be508b41970b77ec5",
+      "status": "INDEPENDENT_REVIEW_RECEIPT_ACCEPTED"
+    },
+    "reviewer": {
+      "model_invocations": 2,
+      "sha256": "d2310e787499d809a4f8a66d7771cb9a4c3467b494c6fdd948b324af5c770be1",
+      "status": "INDEPENDENT_REVIEW_RECEIPT_ACCEPTED"
+    }
+  },
+  "local_independent_other_kernel_check": false,
+  "native_board_sha256": "41a24277db8473a6c077378f3c5a3f75a416796b6b6258da321b4b803bbd07be",
+  "native_campaign": "aether-rh-pub-r1d-20261122",
+  "native_campaign_closed_successfully": true,
+  "native_controller_source": "477508bca534e9a29c686a3bd80f9496e6184ae9",
+  "native_events_sha256": "1949268ee50a14bc83f142045e564fc132f83753f9010f836836898c1700a581",
+  "native_peer_messages": 8,
+  "original_Lean_checks_passed": true,
+  "original_certificate_sha256": "c79b7d947a022cf93664a864d9e02ba415b225683c20b195ca68c166df183d5d",
+  "public_release_authorized": false,
+  "source_code_redistributed": false,
+  "source_report_r1_sha256": "fe336337f47c8c6fcf2d3be38a4b452dc87bf4e29baca700f70648a7e1f58d37",
+  "status": "R2_TECHNICAL_RELEASE_CANDIDATE_PRIVATE_NOT_PUBLISHED"
+}
