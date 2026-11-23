@@ -1,0 +1,65 @@
+{
+  "Lean_toolchain": "v4.33.1",
+  "Mathlib_commit": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "author_credit": "Levent Alp\u00f6ge working with Claude",
+  "axiom_exit": 0,
+  "build_exit": 0,
+  "compiled_modules": 175187,
+  "evidence_hashes": {
+    "author_Main.lean": {
+      "bytes": 433,
+      "sha256": "017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939"
+    },
+    "author_Statements.lean": {
+      "bytes": 783,
+      "sha256": "79ef7ca776e42abe1f46caee13ea09bd19f1e2d0b1620d8d5d200258f33b47bf"
+    },
+    "author_original_archive": {
+      "bytes": 239275554,
+      "sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc"
+    },
+    "axiom_audit": {
+      "bytes": 435,
+      "sha256": "2c7b168860c39a4b4afd417a327bbbd8a2a0615372655c5d4bd329fb06e7f3d5"
+    },
+    "build_full_log": {
+      "bytes": 176381698,
+      "sha256": "dd75de41f986d0c13d6cc9f110a5b19e6d1aa5dd32b801883d3c2094fdacec5b"
+    },
+    "build_script": {
+      "bytes": 501,
+      "sha256": "391999cfe6298051f12fea3c24b09d37d6005d6a9b80a23affe437d2f31e8fa6"
+    },
+    "build_status": {
+      "bytes": 85,
+      "sha256": "94c17b5e8bc909c08b947f4ab0363d440b3a376abe3b7dcf14e90940c2ef9573"
+    },
+    "certifier_script": {
+      "bytes": 8291,
+      "sha256": "ad2c99dd9480771981c3b9d5ec5cebcde4f278045df11bf871d5d7dfc2598269"
+    },
+    "independent_certificate": {
+      "bytes": 2810,
+      "sha256": "c79b7d947a022cf93664a864d9e02ba415b225683c20b195ca68c166df183d5d"
+    },
+    "independent_lean_audit": {
+      "bytes": 728,
+      "sha256": "5f4e63d5cd3a6da160727e23ded02e3dbf0ed42f378d0c0a59a22f803ca2f9a0"
+    }
+  },
+  "independent_lean_exit": 0,
+  "lake_jobs": 183893,
+  "local_other_kernel_verified": false,
+  "public_release_authorized": false,
+  "redistributed_original_code": false,
+  "references": [
+    "https://math.mit.edu/~drew/grh/",
+    "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "https://mrubinst.github.io/grh-lean-verification/"
+  ],
+  "source_author_archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "source_git_mirror_commit": "7cbf7a0c32fca1badf05931879a37c3f8a2b03b4",
+  "status": "PRIVATE_REVIEW_DRAFT_NO_PUBLIC_RELEASE",
+  "upstream_external_other_kernels_reported": "nanoda con-leche con-ron (MIT reports; not run locally)",
+  "utc_created": "2026-11-23T00:36:33.227719+00:00"
+}

@@ -1,0 +1,83 @@
+{
+  "container_isolated": true,
+  "expected_types": "Mathlib RiemannHypothesis",
+  "findings": {
+    "LFunction_eq_zero_re": {
+      "axioms": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "kernel_standard_only": true,
+      "reported": true,
+      "unexpected_axioms": []
+    },
+    "LFunction_eq_zero_re_of_isPrimitive": {
+      "axioms": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "kernel_standard_only": true,
+      "reported": true,
+      "unexpected_axioms": []
+    },
+    "LFunction_ne_zero_of_half_lt_re": {
+      "axioms": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "kernel_standard_only": true,
+      "reported": true,
+      "unexpected_axioms": []
+    },
+    "riemannHypothesis": {
+      "axioms": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "kernel_standard_only": true,
+      "reported": true,
+      "unexpected_axioms": []
+    },
+    "riemannZeta_eq_zero_re": {
+      "axioms": [
+        "propext",
+        "Classical.choice",
+        "Quot.sound"
+      ],
+      "kernel_standard_only": true,
+      "reported": true,
+      "unexpected_axioms": []
+    }
+  },
+  "headline_has_explicit_RH_type": true,
+  "independent_check_source_sha256": "9f9334f91fcb8708a71c0271d2d97f00939e2d2837bf78ef7f373c06eba7af43",
+  "independent_lean_exit": 0,
+  "independent_lean_log_sha256": "5f4e63d5cd3a6da160727e23ded02e3dbf0ed42f378d0c0a59a22f803ca2f9a0",
+  "lean_errors_in_log": false,
+  "main_file_sha256": "017645ca448f2fd1f6fd5c4c2cb2c6e96e472725be13f6e180ca6e1574360939",
+  "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "original_axiom_exit": 0,
+  "original_axiom_log_sha256": "2c7b168860c39a4b4afd417a327bbbd8a2a0615372655c5d4bd329fb06e7f3d5",
+  "original_build_log_sha256": "dd75de41f986d0c13d6cc9f110a5b19e6d1aa5dd32b801883d3c2094fdacec5b",
+  "original_build_status_sha256": "94c17b5e8bc909c08b947f4ab0363d440b3a376abe3b7dcf14e90940c2ef9573",
+  "original_main_exit": 0,
+  "original_status_at_snapshot": "START_UTC=2026-11-21T12:20:01Z\nMAIN_EXIT=0\nAXIOM_EXIT=0\nEND_UTC=2026-11-22T21:05:42Z\n",
+  "proof_checker_script_sha256": "391999cfe6298051f12fea3c24b09d37d6005d6a9b80a23affe437d2f31e8fa6",
+  "publication_authorized": false,
+  "source_git_commit": "7cbf7a0c32fca1badf05931879a37c3f8a2b03b4",
+  "source_license_or_mathematical_authorship_transferred": false,
+  "standard_axioms_sorted": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "statements_sha256": "79ef7ca776e42abe1f46caee13ea09bd19f1e2d0b1620d8d5d200258f33b47bf",
+  "status": "FULL_RH_KERNEL_AXIOM_CERTIFIED",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "upstream_RH_certified": true,
+  "utc_completed": "2026-11-22T21:06:50.754411+00:00"
+}
